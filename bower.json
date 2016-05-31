@@ -1,0 +1,23 @@
+{
+  "name": "Belajor angular",
+  "authors": [
+    "Robbi Nespu <robbinespu@gmail.com>"
+  ],
+  "description": "hentam je la labuu",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-angular": "^0.2.6",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.6"
+  }
+}
